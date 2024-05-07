@@ -1,0 +1,42 @@
+{
+    "title": [
+        {
+          "id": 1,
+          "name": "Kamonwan",
+          "lastname": "Daengkla",
+          "birth_of_day": "21 March 2002",
+          "dianosis": "Heart Disease",
+          "allergy": "Paracetamol"
+        },
+        {
+          "id": 2,
+          "name": "Wanthongchai",
+          "lastname": "Sangsuk",
+          "birth_of_day": "11 April 1999",
+          "dianosis": "mixed anxiety and depressive disorder",
+          "allergy": "-"
+        }
+      ],
+      "details": [
+        {
+          "id": 1,
+          "instruction": "Anticoagulants 1 mg Tablet",
+          "Morning": "Before Mael 1 tablet", 
+          "Afternoon": "-",
+          "Evening": "After Meal 1 tablet",
+          "At_bed_time": "-",
+          "Doctor": "Doctor Phacharaporn Amornsak",
+          "IMG":"01.png"
+        },
+        {
+          "id": 2,
+          "instruction": "Paroxetine 20 mg Tablet",
+          "Morning": "Before Mael 1 tablet", 
+          "Afternoon": "Before Mael 1 tablet",
+          "Evening": "After Meal 1 tablet",
+          "At_bed_time": "1 tablet",
+          "Doctor": "Doctor Phacharaporn Amornsak",
+          "IMG":"02.png"
+        }
+      ]
+}
